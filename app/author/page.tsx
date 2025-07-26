@@ -203,14 +203,14 @@ export default function AuthorPage() {
                 <Mail className="h-5 w-5 text-blue-600" />
                 <div>
                   <p className="font-semibold text-sm">Email</p>
-                  <p className="text-gray-600 text-sm">aisha.yaqub@student.gla.ac.uk</p>
+                  <p className="text-gray-600 text-sm">ayaqub300@caledonian.ac.uk</p>
                 </div>
               </div>
               <div className="flex items-center space-x-3 p-3 bg-gray-50 rounded-lg">
                 <Github className="h-5 w-5 text-gray-800" />
                 <div>
                   <p className="font-semibold text-sm">GitHub</p>
-                  <p className="text-gray-600 text-sm">github.com/aishayaqub</p>
+                  <p className="text-gray-600 text-sm">github.com/ashiiy23</p>
                 </div>
               </div>
               <div className="flex items-center space-x-3 p-3 bg-gray-50 rounded-lg">
