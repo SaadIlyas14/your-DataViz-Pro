@@ -46,7 +46,7 @@ export default function AuthorPage() {
           </CardHeader>
           <CardContent className="space-y-4">
             <p className="text-gray-700 leading-relaxed">
-              I'm a passionate Software Development student at the University of Glasgow with a keen interest in data
+              I'm a passionate Software Development student at the Glasgow Caledonian University with a keen interest in data
               visualization and modern web technologies. This project represents my exploration into creating
               comprehensive web applications that demonstrate data visualization through appropriate coding practices
               using real-world APIs and modern development frameworks.
